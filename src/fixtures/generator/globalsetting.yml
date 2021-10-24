@@ -1,0 +1,32 @@
+entity: GlobalSetting
+items:
+  globalsetting1:
+    key: "login_attemps"
+    value: "3"
+    description: "Number of attemps before the account locks."
+    enabled: true
+  globalsetting2:
+    key: "SMTP Server"
+    value: "google.com"
+    description: "SMTP Login Server"
+    enabled: true
+  globalsetting3:
+    key: "SMTP User"
+    value: "test_user"
+    description: "SMTP Username"
+    enabled: true
+  globalsetting4:
+    key: "SMTP Key"
+    value: "kjhkjaa8798a8s8a99a"
+    description: "SMTP Authentication Key"
+    enabled: false
+  globalsetting5:
+    key: "SMTP Port"
+    value: "465"
+    description: "Setting Description"
+    enabled: true
+  globalsetting6:
+    key: "SMTP Enable SSL"
+    value: "true"
+    description: "Setting Description"
+    enabled: false

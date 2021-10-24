@@ -1,0 +1,7 @@
+entity: ItemBundle
+items:
+  itembundle{1..10}:
+    name: "{{name.title}}"
+    code: "{{hacker.abbreviation}}"
+    description: "{{lorem.paragraph}}"
+    enabled: true

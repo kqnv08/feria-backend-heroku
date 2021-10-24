@@ -1,0 +1,22 @@
+entity: PoolDeck
+items:
+  pooldeck1:
+    name: "T-Deck"
+    description: "Deck Description"
+    enabled: true
+  pooldeck2:
+    name: "Walk Around Deck"
+    description: "Deck Description"
+    enabled: true
+  pooldeck3:
+    name: "L-Deck"
+    description: "Deck Description"
+    enabled: true
+  pooldeck4:
+    name: "Single End Deck"
+    description: "Deck Description"
+    enabled: true
+  pooldeck5:
+    name: "Full Side Deck"
+    description: "Deck Description"
+    enabled: true

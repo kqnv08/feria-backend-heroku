@@ -1,0 +1,38 @@
+entity: Appointment
+items:
+  appointment1:
+    leadId: "@lead1"
+    representativeId: "@representative1"
+    timeSlotId: "@timeSlot1"
+    appointmentStatusId: "@appointmentstatus3"
+    date: "2021-10-18 00:00:00"
+    virtual: false
+    addInfo: "Info test"
+    urlMeeting: ""
+    reasonComment: "Reason test"
+    userCreatedId: "@user1"
+    timeCreation: "2021-10-18 16:38:07"
+  appointment2:
+    leadId: "@lead2"
+    representativeId: "@representative1"
+    timeSlotId: "@timeSlot4"
+    appointmentStatusId: "@appointmentstatus2"
+    date: "2021-10-19 00:00:00"
+    virtual: false
+    addInfo: "Info test"
+    urlMeeting: ""
+    reasonComment: "Reason test"
+    userCreatedId: "@user1"
+    timeCreation: "2021-10-19 16:38:07"
+  appointment3:
+    leadId: "@lead3"
+    representativeId: "@representative1"
+    timeSlotId: "@timeSlot3"
+    appointmentStatusId: "@appointmentstatus4"
+    date: "2021-10-20 00:00:00"
+    virtual: false
+    addInfo: "Info test"
+    urlMeeting: ""
+    reasonComment: "Reason test"
+    userCreatedId: "@user1"
+    timeCreation: "2021-10-20 16:38:07"

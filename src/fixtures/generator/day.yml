@@ -1,0 +1,30 @@
+entity: Day
+items:
+  day1:
+    name: "Monday"
+    code: "Mo"
+    dayOfNumber: 1
+  day2:
+    name: "Tuesday"
+    code: "Tu"
+    dayOfNumber: 2
+  day3:
+    name: "Wednesday"
+    code: "Wed"
+    dayOfNumber: 3
+  day4:
+    name: "Thursday"
+    code: "Thu"
+    dayOfNumber: 4
+  day5:
+    name: "Friday"
+    code: "Fri"
+    dayOfNumber: 5
+  day6:
+    name: "Saturday"
+    code: "Sat"
+    dayOfNumber: 6
+  day7:
+    name: "Sunday"
+    code: "Sun"
+    dayOfNumber: 7

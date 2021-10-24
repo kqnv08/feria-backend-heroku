@@ -1,0 +1,12 @@
+entity: TemplateType
+items:
+  templatetype1:
+    name: "Email"
+    code: "email"
+    description: "Description"
+    enabled: true
+  templatetype2:
+    name: "SMS"
+    code: "sms"
+    description: "Description"
+    enabled: true

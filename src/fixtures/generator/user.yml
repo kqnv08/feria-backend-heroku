@@ -1,0 +1,17 @@
+entity: User
+items:
+  user1:
+    firstName: 'Santiago'
+    lastName: 'Jerez'
+    sub: 'b1b4d184-5c01-4c2c-bf98-3b04236d4fbd'
+    roleId: '@role1'
+  user2:
+    firstName: 'Marx'
+    lastName: 'cisnero'
+    sub: 'b1b4d184-5c01-4c2c-bf98-3b04236d4fbd'
+    roleId: '@role1'
+  user3:
+    firstName: 'pedro'
+    lastName: 'colque'
+    sub: 'b1b4d184-5c01-4c2c-bf98-3b04236d4fbd'
+    roleId: '@role1'

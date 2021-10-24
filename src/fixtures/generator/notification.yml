@@ -1,0 +1,12 @@
+entity: Notification
+items:
+  notification1:
+    name: "New Platform Updates"
+    code: "001"
+    description: "Hi guys, I just wanted to let you know that an awesome team is working on developing our new KPM."
+    enabled: true
+  notification2:
+    name: "We keep working"
+    code: "002"
+    description: "Hi guys, me again. Lets keep on the hard work."
+    enabled: true

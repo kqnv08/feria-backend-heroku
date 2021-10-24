@@ -1,0 +1,9 @@
+entity: Representative
+items:
+  representative1:
+    firstName: "Michael"
+    lastName: "Jackson"
+    idNumber: "3218"
+    email: "michaelJackson@gmail.com"
+    description: "-"
+    enabled: true

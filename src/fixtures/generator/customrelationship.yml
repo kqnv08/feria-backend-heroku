@@ -1,0 +1,10 @@
+entity: CustomRelationship
+items:
+  customrelationship1:
+    name: "Father"
+  customrelationship2:
+    name: "Mother"
+  customrelationship3:
+    name: "Brother/sister"
+  customrelationship4:
+    name: "Friend"

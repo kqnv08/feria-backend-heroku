@@ -1,0 +1,26 @@
+entity: AppointmentStatus
+items:
+  appointmentstatus1:
+    name: "Scheduled"
+    color: "#3498DB"
+    hotBoxId: "@hotbox1"
+  appointmentstatus2:
+    name: "Confirmed"
+    color: "#CC632E"
+    hotBoxId: "@hotbox2"
+  appointmentstatus3:
+    name: "Canceled"
+    color: "#C019E6"
+    hotBoxId: "@hotbox3"
+  appointmentstatus4:
+    name: "Reprogrammed"
+    color: "#F1C40F"
+    hotBoxId: "@hotbox4"
+  appointmentstatus5:
+    name: "Reconfirmed"
+    color: "#F1C40F"
+    hotBoxId: "@hotbox4"
+  appointmentstatus6:
+    name: "Canceled"
+    color: "#F1C40F"
+    hotBoxId: "@hotbox4"

@@ -1,0 +1,11 @@
+entity: MessageType
+items:
+  MessageType1:
+    name: "Customer"
+    code: "1"
+  MessageType2:
+    name: "StaffMember"
+    code: "2"
+  MessageType3:
+    name: "Representative"
+    code: "3"

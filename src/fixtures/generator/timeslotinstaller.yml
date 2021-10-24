@@ -1,0 +1,17 @@
+entity: TimeSlotsInstaller
+items:
+  timeSlotsInstaller1:
+    timeFrom: "08:00"
+    timeUntil: "12:00"
+    description: "From 8 to 12 hs."
+    userCreation: "@user1"
+  timeSlotsInstaller2:
+    timeFrom: "12:00"
+    timeUntil: "16:00"
+    description: "From 12 to 16 hs."
+    userCreation: "@user1"
+  timeSlotsInstaller3:
+    timeFrom: "16:00"
+    timeUntil: "20:00"
+    description: "From 16 to 20 hs."
+    userCreation: "@user1"

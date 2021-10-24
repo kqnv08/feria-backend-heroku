@@ -1,0 +1,8 @@
+entity: PreferenceNotification
+items:
+  preferenceNotification1:
+    description: "Only E-Mail"
+  preferenceNotification2:
+    description: "Only Push"
+  preferenceNotification3:
+    description: "Both, E-Mail and Push"

@@ -1,0 +1,34 @@
+entity: StaffMember
+items:
+  staffmember1:
+    firstName: "Mike"
+    lastName: "Klein"
+    idNumber: "123"
+    zipCode: "32200"
+    roleId: "@role5"
+    description: ""
+    enabled: true
+  staffmember2:
+    firstName: "Eric"
+    lastName: "Atlas"
+    idNumber: "123"
+    zipCode: "32200"
+    roleId: "@role6"
+    description: ""
+    enabled: true
+  staffmember3:
+    firstName: "Sierra"
+    lastName: "Web"
+    idNumber: "123"
+    zipCode: "32200"
+    roleId: "@role6"
+    description: ""
+    enabled: true
+  staffmember4:
+    firstName: "Chelsea"
+    lastName: "Brumfield"
+    idNumber: "123"
+    zipCode: "32200"
+    roleId: "@role6"
+    description: ""
+    enabled: true

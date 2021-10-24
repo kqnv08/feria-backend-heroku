@@ -1,0 +1,34 @@
+entity: Department
+items:
+  department1:
+    name: "HR"
+    description: "Human Resources"
+    enabled: true
+  department2:
+    name: "Services & Install"
+    description: "Services & Install"
+    enabled: true
+  department3:
+    name: "Administration"
+    description: "Administration"
+    enabled: true
+  department4:
+    name: "Accounting"
+    description: "Accounting"
+    enabled: false
+  department5:
+    name: "Sales"
+    description: "Sales"
+    enabled: true
+  department6:
+    name: "Telemarketing"
+    description: "Telemarketing"
+    enabled: true
+  department7:
+    name: "Customer Care"
+    description: "Customer Care"
+    enabled: true
+  department8:
+    name: "Inventory"
+    description: "Inventory"
+    enabled: true

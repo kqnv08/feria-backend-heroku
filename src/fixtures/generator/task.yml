@@ -1,0 +1,29 @@
+entity: Task
+items:
+  task1:
+    title: "Task1"
+    body: "Task1 Test"
+    departmentId: "@department1"
+    startDate: "2021-09-03 00:00:00"
+    endDate: "2021-09-09 00:00:00"
+    criticalDate: "2021-09-07 00:00:00"
+    allUser: false
+    taskStatusId: "@taskstatus1"
+  task2:
+    title: "Task2"
+    body: "Task2 Test"
+    departmentId: "@department2"
+    startDate: "2021-09-03 00:00:00"
+    endDate: "2021-09-09 00:00:00"
+    criticalDate: "2021-09-08 00:00:00"
+    allUser: false
+    taskStatusId: "@taskstatus2"
+  task3:
+    title: "Task3"
+    body: "Task3 Test"
+    departmentId: "@department3"
+    startDate: "2021-09-10 00:00:00"
+    endDate: "2021-09-15 00:00:00"
+    criticalDate: "2021-09-14 00:00:00"
+    allUser: false
+    taskStatusId: "@taskstatus3"

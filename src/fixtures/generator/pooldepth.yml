@@ -1,0 +1,6 @@
+entity: PoolDepth
+items:
+  pooldepth{1..10}:
+    name: "{{name.jobTitle}}"
+    description: "{{lorem.paragraph}}"
+    enabled: true

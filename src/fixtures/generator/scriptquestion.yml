@@ -1,0 +1,56 @@
+entity: ScriptQuestion
+items:
+  scriptquestion1:
+    scriptId: "@script1"
+    elementTypeId: "@elementtype4"
+    order: 1
+    code: "Q1"
+    question: "What's your Name?"
+    intro: "to be nice"
+    allowComment: true
+    enabled: true
+  scriptquestion2:
+    scriptId: "@script1"
+    elementTypeId: "@elementtype4"
+    order: 2
+    code: "Q2"
+    question: "What's your mail?"
+    intro: "verify that it is valid"
+    allowComment: false
+    enabled: true
+  scriptquestion3:
+    scriptId: "@script1"
+    elementTypeId: "@elementtype3"
+    order: 3
+    code: "Q3"
+    question: "What's phone number?"
+    intro: "validate the area code"
+    allowComment: true
+    enabled: true
+  scriptquestion4:
+    scriptId: "@script2"
+    elementTypeId: "@elementtype3"
+    order: 1
+    code: "Q4"
+    question: "What date do you prefer?"
+    intro: "validate that it is from Monday to Friday"
+    allowComment: false
+    enabled: true
+  scriptquestion5:
+    scriptId: "@script2"
+    elementTypeId: "@elementtype4"
+    order: 2
+    code: "Q5"
+    question: "What time range do you prefer?"
+    intro: "try it in the morning"
+    allowComment: true
+    enabled: true
+  scriptquestion6:
+    scriptId: "@script2"
+    elementTypeId: "@elementtype3"
+    order: 3
+    code: "Q6"
+    question: "do you have any special indications?"
+    intro: "try to be precise with the indication"
+    allowComment: false
+    enabled: true

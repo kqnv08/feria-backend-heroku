@@ -1,0 +1,6 @@
+entity: PoolDeckAdditional
+items:
+  pooldeckadditional{1..10}:
+    name: "{{commerce.productName}}"
+    description: "{{lorem.paragraph}}"
+    enabled: true

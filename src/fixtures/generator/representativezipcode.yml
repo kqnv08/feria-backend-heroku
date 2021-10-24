@@ -1,0 +1,7 @@
+entity: RepresentativeZipCode
+items:
+  representativezipcode1:
+    representativeId: "@representative1"
+    zipCode: "{{address.zipCode}}"
+    description: "{{lorem.paragraph}}"
+    enabled: true

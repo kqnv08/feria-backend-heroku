@@ -1,0 +1,6 @@
+entity: PoolFilter
+items:
+  poolfilter{1..10}:
+    name: "{{commerce.productName}}"
+    description: "{{commerce.productDescription}}"
+    enabled: true

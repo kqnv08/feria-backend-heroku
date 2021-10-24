@@ -1,0 +1,66 @@
+entity: PoolCombination
+items:
+  poolcombination1:
+    name: "Under Ground with T-Deck"
+    description: "Combination Description"
+    price: 1023
+    poolShapeId: "@poolshape1"
+    poolOptionId: "@pooloption1"
+    poolSizeId: "@poolsize1"
+    poolDeckId: "@pooldeck1"
+    poolBrandId: "@poolbrand1"
+    poolColorId: "@poolcolor1"
+    poolFilterId: "@poolfilter1"
+    poolDeckAddId: "@pooldeckadditional1"
+    poolWallId: "@poolwall1"
+    poolDepthId: "@pooldepth1"
+    poolAssemblyId: "@poolassembly1"
+    enabled: true
+  poolcombination2:
+    name: "Under Ground with L-Deck"
+    description: "Combination Description"
+    price: 5099
+    poolShapeId: "@poolshape2"
+    poolOptionId: "@pooloption2"
+    poolSizeId: "@poolsize1"
+    poolDeckId: "@pooldeck2"
+    poolBrandId: "@poolbrand2"
+    poolColorId: "@poolcolor2"
+    poolFilterId: "@poolfilter2"
+    poolDeckAddId: "@pooldeckadditional2"
+    poolWallId: "@poolwall2"
+    poolDepthId: "@pooldepth2"
+    poolAssemblyId: "@poolassembly2"
+    enabled: true
+  poolcombination3:
+    name: "Under Ground with Full Side Deck"
+    description: "Combination Description"
+    price: 5099
+    poolShapeId: "@poolshape3"
+    poolOptionId: "@pooloption3"
+    poolSizeId: "@poolsize2"
+    poolDeckId: "@pooldeck3"
+    poolBrandId: "@poolbrand3"
+    poolColorId: "@poolcolor3"
+    poolFilterId: "@poolfilter3"
+    poolDeckAddId: "@pooldeckadditional3"
+    poolWallId: "@poolwall3"
+    poolDepthId: "@pooldepth3"
+    poolAssemblyId: "@poolassembly3"
+    enabled: true
+  poolcombination4:
+    name: "Under Ground with Side Deck"
+    description: "Combination Description"
+    price: 5099
+    poolShapeId: "@poolshape3"
+    poolOptionId: "@pooloption3"
+    poolSizeId: "@poolsize2"
+    poolDeckId: "@pooldeck4"
+    poolBrandId: "@poolbrand4"
+    poolColorId: "@poolcolor4"
+    poolFilterId: "@poolfilter4"
+    poolDeckAddId: "@pooldeckadditional4"
+    poolWallId: "@poolwall4"
+    poolDepthId: "@pooldepth4"
+    poolAssemblyId: "@poolassembly4"
+    enabled: true

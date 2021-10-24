@@ -1,0 +1,11 @@
+entity: ModuleNotification
+items:
+  moduleNotification1:
+    name: "reminder"
+    code: "REM"
+  moduleNotification2:
+    name: "task"
+    code: "TSK"
+  moduleNotification3:
+    name: "Event"
+    code: "EVT"

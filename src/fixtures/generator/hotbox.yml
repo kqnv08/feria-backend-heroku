@@ -1,0 +1,50 @@
+entity: Hotbox
+items:
+  hotbox1:
+    name: "Sold"
+    code: "$$$"
+    description: "Customer accepted the proposal"
+    enabled: true
+    deleted: false
+  hotbox2:
+    name: "New Lead"
+    code: "NEW"
+    description: "Customer accepted the proposal"
+    enabled: true
+    deleted: false
+  hotbox3:
+    name: "Scheduled for Screening Call"
+    code: "SCR"
+    description: "Customer accepted the proposal"
+    enabled: true
+    deleted: true
+  hotbox4:
+    name: "Call Rescheduled"
+    code: "SCH"
+    description: "Customer accepted the proposal"
+    enabled: true
+    deleted: true
+  hotbox5:
+    name: "Qualify"
+    code: "QLF"
+    description: "Customer accepted the proposal"
+    enabled: true
+    deleted: false
+  hotbox6:
+    name: "Do Not Call"
+    code: "DNC"
+    description: "Customer accepted the proposal"
+    enabled: true
+    deleted: false
+  hotbox7:
+    name: "Call in 'X' days"
+    code: "CID"
+    description: "Customer accepted the proposal"
+    enabled: true
+    deleted: false
+  hotbox8:
+    name: "Disqualify"
+    code: "DQF"
+    description: "Customer accepted the proposal"
+    enabled: true
+    deleted: false

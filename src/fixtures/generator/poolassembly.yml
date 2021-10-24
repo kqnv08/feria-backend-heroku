@@ -1,0 +1,7 @@
+entity: PoolAssembly
+items:
+  poolassembly{1..10}:
+    name: "{{name.title}}"
+    code: "{{hacker.abbreviation}}"
+    description: "{{lorem.paragraphs}}"
+    enabled: true

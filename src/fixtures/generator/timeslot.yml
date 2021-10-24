@@ -1,0 +1,27 @@
+entity: TimeSlot
+items:
+  timeSlot1:
+    timeFrom: "08:00"
+    timeUntil: "10:00"
+    description: "From 8 to 10 hs."
+    userCreation: "@user1"
+  timeSlot2:
+    timeFrom: "10:00"
+    timeUntil: "12:00"
+    description: "From 10 to 12 hs."
+    userCreation: "@user1"
+  timeSlot3:
+    timeFrom: "12:00"
+    timeUntil: "14:00"
+    description: "From 12 to 14 hs."
+    userCreation: "@user1"
+  timeSlot4:
+    timeFrom: "14:00"
+    timeUntil: "16:00"
+    description: "From 14 to 16 hs."
+    userCreation: "@user1"
+  timeSlot5:
+    timeFrom: "16:00"
+    timeUntil: "18:00"
+    description: "From 16 to 18 hs."
+    userCreation: "@user1"

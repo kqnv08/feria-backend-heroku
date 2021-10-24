@@ -1,0 +1,32 @@
+entity: Role
+items:
+  role1:
+    name: "Administrator"
+    code: "admin"
+    description: "Role Description"
+    enabled: true
+  role2:
+    name: "Sales"
+    code: "sales"
+    description: "Role Description"
+    enabled: true
+  role3:
+    name: "Customer Care"
+    code: "Code ABC"
+    description: "Role Description"
+    enabled: true
+  role4:
+    name: "Installer"
+    code: "install"
+    description: "Role Description"
+    enabled: true
+  role5:
+    name: "Boss"
+    code: "boss"
+    description: "Role Description"
+    enabled: true
+  role6:
+    name: "Admininstrative"
+    code: "admininstrative"
+    description: "Role Description"
+    enabled: true

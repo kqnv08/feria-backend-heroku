@@ -1,0 +1,8 @@
+entity: Provider
+items:
+  provider{1..100}:
+    name: "{{company.companyName}}"
+    code: "{{company.companySuffix}}"
+    address: "{{address.direction}}"
+    description: "{{company.catchPhraseDescriptor}}"
+    enabled: true

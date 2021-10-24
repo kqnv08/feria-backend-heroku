@@ -1,0 +1,32 @@
+entity: Address
+items:
+  address1:
+    country: "{{address.county}}"
+    countryCode: "{{address.countryCode}}"
+    state: "{{address.state}}"
+    stateCode: "{{address.stateAbbr}}"
+    city: "{{address.cityName}}"
+    lat: "{{address.latitude}}"
+    lng: "{{address.longitude}}"
+    street: "{{address.streetName}}"
+    fullAddress: "{{address.streetAddress}}"
+  address2:
+    country: "{{address.county}}"
+    countryCode: "{{address.countryCode}}"
+    state: "{{address.state}}"
+    stateCode: "{{address.stateAbbr}}"
+    city: "{{address.cityName}}"
+    lat: "{{address.latitude}}"
+    lng: "{{address.longitude}}"
+    street: "{{address.streetName}}"
+    fullAddress: "{{address.streetAddress}}"
+  customerAddress3:
+    country: "{{address.county}}"
+    countryCode: "{{address.countryCode}}"
+    state: "{{address.state}}"
+    stateCode: "{{address.stateAbbr}}"
+    city: "{{address.cityName}}"
+    lat: "{{address.latitude}}"
+    lng: "{{address.longitude}}"
+    street: "{{address.streetName}}"
+    fullAddress: "{{address.streetAddress}}"

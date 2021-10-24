@@ -1,0 +1,9 @@
+entity: SaleOrder
+items:
+  saleorder1:
+    customerId: "@customer1"
+    closerUserId: "@user1"
+    repUserId: "@user2"
+    appointerUserId: "@user3"
+    description: "{{commerce.productDescription}}"
+  

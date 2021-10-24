@@ -1,0 +1,44 @@
+entity: ScriptAnswer
+items:
+  scriptanswer1:
+    scriptQuestionId: "@scriptquestion1"
+    value: "Answer1"
+    weight: 1
+    disqualify: false
+    disqualifyMessage: ""
+    enabled: true
+  scriptanswer2:
+    scriptQuestionId: "@scriptquestion1"
+    value: "Answer 2"
+    weight: 1
+    disqualify: false
+    disqualifyMessage: ""
+    enabled: true
+  scriptanswer3:
+    scriptQuestionId: "@scriptquestion2"
+    value: "Answer 3"
+    weight: 1
+    disqualify: false
+    disqualifyMessage: ""
+    enabled: true
+  scriptanswer4:
+    scriptQuestionId: "@scriptquestion2"
+    value: "Answer 4"
+    weight: 1
+    disqualify: true
+    disqualifyMessage: "unqualify Message"
+    enabled: true
+  scriptanswer5:
+    scriptQuestionId: "@scriptquestion3"
+    value: "Answer 5"
+    weight: 1
+    disqualify: true
+    disqualifyMessage: "unqualify Message"
+    enabled: true
+  scriptanswer6:
+    scriptQuestionId: "@scriptquestion3"
+    value: "Answer 6"
+    weight: 1
+    disqualify: false
+    disqualifyMessage: "unqualify Message"
+    enabled: true

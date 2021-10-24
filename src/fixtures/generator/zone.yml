@@ -1,0 +1,6 @@
+entity: Zone
+items:
+  zone{1..10}:
+    zipCode: "{{address.zipCodeByState}}"
+    description: "{{address.cityPrefix}}"
+    enabled: true

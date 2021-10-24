@@ -1,0 +1,14 @@
+entity: PoolShape
+items:
+  poolshape1:
+    name: "Square"
+    description: "Square Pool"
+    enabled: true
+  poolshape2:
+    name: "Rounded"
+    description: "Rounded Pool"
+    enabled: true
+  poolshape3:
+    name: "Free Form"
+    description: "Free Form Pool"
+    enabled: true

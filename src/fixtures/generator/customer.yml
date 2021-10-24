@@ -1,0 +1,42 @@
+entity: Customer
+items:
+  customer1:
+    firstName: "{{name.firstName}}"
+    lastName: "{{name.lastName}}"
+    prefix: "{{name.prefix}}"
+    gender: "Male"
+    dateOfBirth: "1990-08-08"
+    phoneNumber: "{{finance.account}}"
+    email: "demo1@kayak.com"
+    company: "Google Inc."
+    description: "{{commerce.productDescription}}"
+    leadSourceId: "@leadsource1"
+    hotboxId: "@hotbox1"
+    addressId: "@address1"
+    enabled: true
+  customer2:
+    firstName: "{{name.firstName}}"
+    lastName: "{{name.lastName}}"
+    prefix: "{{name.prefix}}"
+    gender: "Female"
+    dateOfBirth: "1990-08-08"
+    phoneNumber: "{{finance.account}}"
+    email: "demo2@kayak.com"
+    company: "Google Inc."
+    description: "{{commerce.productDescription}}"
+    leadSourceId: "@leadsource1"
+    hotboxId: "@hotbox1"
+    addressId: "@address2"
+    enabled: true
+  customer3:
+    firstName: "{{name.firstName}}"
+    lastName: "{{name.lastName}}"
+    gender: "Female"
+    phoneNumber: "{{finance.account}}"
+    email: "demo($current)@kayak.com"
+    company: "Kayak"
+    description: "{{commerce.productDescription}}"
+    leadSourceId: "@leadsource1"
+    hotboxId: "@hotbox5"
+    addressId: "@address2"
+    enabled: true

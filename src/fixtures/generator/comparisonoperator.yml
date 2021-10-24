@@ -1,0 +1,14 @@
+entity: ComparisonOperator
+items:
+  comparisonoperator1:
+    name: "equals to"
+    code: EQU
+    enabled: true
+  comparisonoperator2:
+    name: "different than"
+    code: DIF
+    enabled: true
+  comparisonoperator3:
+    name: "is one of"
+    code: ISO
+    enabled: true

@@ -1,0 +1,8 @@
+entity: ReminderType
+items:
+  remindertype1:
+    name: "Task"
+    code: "TSK"
+  remindertype2:
+    name: "Notification"
+    code: "NOT"

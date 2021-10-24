@@ -1,0 +1,19 @@
+entity: TaskStatus
+items:
+  taskstatus1:
+    name: "Pending"
+    code: "001"
+    description: "The task is in pending status."
+  taskstatus2:
+    name: "Progress"
+    code: "002"
+    description: "The task is in progress."
+  taskstatus3:
+    name: "Expired"
+    code: "003"
+    description: "The task was expired."
+  taskstatus4:
+    name: "Completed"
+    code: "004"
+    description: "The task was completed."
+    

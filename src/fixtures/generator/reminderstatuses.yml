@@ -1,0 +1,14 @@
+entity: ReminderStatus
+items:
+  reminderstatus1:
+    name: "Pending"
+    code: "001"
+    description: "The reminder is in pending status."
+  reminderstatus2:
+    name: "Progress"
+    code: "002"
+    description: "The reminder is in progress."
+  reminderstatus3:
+    name: "Completed"
+    code: "003"
+    description: "The reminder was completed."

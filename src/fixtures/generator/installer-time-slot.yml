@@ -1,0 +1,14 @@
+entity: InstallerTimeSlot
+items:
+  installerTimeSlot1:
+    installerId: "@installer1"
+    timeSlotId: "@timeSlotsInstaller1"
+    available: true
+  installerTimeSlot2:
+    installerId: "@installer1"
+    timeSlotId: "@timeSlotsInstaller2"
+    available: true
+  installerTimeSlot3:
+    installerId: "@installer1"
+    timeSlotId: "@timeSlotsInstaller3"
+    available: true

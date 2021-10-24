@@ -1,0 +1,14 @@
+entity: Script
+items:
+  script1:
+    scriptTypeId: "@scripttype1"
+    name: "Welcome Call"
+    code: "WLC"
+    description: "Description"
+    enabled: true
+  script2:
+    scriptTypeId: "@scripttype2"
+    name: "Virtual Appointment"
+    code: "OND"
+    description: "Description"
+    enabled: true

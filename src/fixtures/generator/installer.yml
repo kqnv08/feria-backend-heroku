@@ -1,0 +1,9 @@
+entity: Installer
+items:
+  installer1:
+    firstName: "Marcos"
+    lastName: "Martinez"
+    idNumber: "728"
+    email: "MarcosMartines@gmail.com"
+    description: "-"
+    enabled: true

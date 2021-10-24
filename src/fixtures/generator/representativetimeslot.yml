@@ -1,0 +1,23 @@
+entity: RepresentativeTimeSlot
+items:
+  representativeTimeSlot1:
+    representativeId: "@representative1"
+    timeSlotId: "@timeSlot1"
+    available: true
+  representativeTimeSlot2:
+    representativeId: "@representative1"
+    timeSlotId: "@timeSlot2"
+    available: true
+  representativeTimeSlot3:
+    representativeId: "@representative1"
+    timeSlotId: "@timeSlot3"
+    available: true
+  representativeTimeSlot4:
+    representativeId: "@representative1"
+    timeSlotId: "@timeSlot4"
+    available: true
+  representativeTimeSlot5:
+    representativeId: "@representative1"
+    timeSlotId: "@timeSlot5"
+    available: true
+  

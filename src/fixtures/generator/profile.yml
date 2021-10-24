@@ -1,0 +1,42 @@
+entity: Profile
+items:
+  profile1:
+    name: "Advertising"
+    code: "Advertising"
+    description: "Profile Description"
+    enabled: true
+  profile2:
+    name: "All Company"
+    code: "All Company"
+    description: "Profile Description"
+    enabled: true
+  profile3:
+    name: "Assistants"
+    code: "Assistants"
+    description: "Profile Description"
+    enabled: true
+  profile4:
+    name: "customer service"
+    code: "customer service"
+    description: "Profile Description"
+    enabled: true
+  profile5:
+    name: "Daily Reports"
+    code: "Daily Reports"
+    description: "Profile Description"
+    enabled: true
+  profile6:
+    name: "Install"
+    code: "Install"
+    description: "Profile Description"
+    enabled: true
+  profile7:
+    name: "Installers"
+    code: "Installers"
+    description: "Profile Description"
+    enabled: true
+  profile8:
+    name: "KAYAK"
+    code: "KAYAK"
+    description: "Profile Description"
+    enabled: true

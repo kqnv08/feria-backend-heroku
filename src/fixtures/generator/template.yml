@@ -1,0 +1,16 @@
+entity: Template
+items:
+  template1:
+    name: "After Welcome Call"
+    templateTypeId: "@templatetype1"
+    subject: "hanks for your time with us."
+    body: "Hi <<FIRST_NAME>>,<br><br>We really appreciate your time today with"
+    description: "Role Description"
+    enabled: true
+  template2:
+    name: "After Virtual Appointment"
+    templateTypeId: "@templatetype2"
+    subject: "Thanks for your time."
+    body: "Hi <<FIRST_NAME>>,<br><br>We really appreciate your time today with"
+    description: "Role Description"
+    enabled: true

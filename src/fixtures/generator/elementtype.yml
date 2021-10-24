@@ -1,0 +1,22 @@
+entity: ElementType
+items:
+  elementtype1:
+    name: "Text"
+    code: TX
+    enabled: true
+  elementtype2:
+    name: "Yes/No"
+    code: YN
+    enabled: true
+  elementtype3:
+    name: "Single-Choice"
+    code: SC
+    enabled: true
+  elementtype4:
+    name: "Multiple-Choice"
+    code: MC
+    enabled: true
+  elementtype5:
+    name: "Date"
+    code: DT
+    enabled: true

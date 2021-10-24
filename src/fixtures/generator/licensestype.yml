@@ -1,0 +1,38 @@
+entity: LicenseType
+items:
+  licensetype1:
+    name: "Vacation leave"
+    description: "Description"
+    minDays: 1
+    maxDays: 15
+    enabled: true
+  licensetype2:
+    name: "Parental leave"
+    description: "Description"
+    minDays: 1
+    maxDays: 15
+    enabled: true
+  licensetype3:
+    name: "Personal or family leave (Special)"
+    description: "Description"
+    minDays: 1
+    maxDays: 15
+    enabled: true
+  licensetype4:
+    name: "Community Service Leave"
+    description: "Description"
+    minDays: 1
+    maxDays: 15
+    enabled: true
+  licensetype5:
+    name: "Sick Leave"
+    description: "Description"
+    minDays: 1
+    maxDays: 15
+    enabled: true
+  licensetype6:
+    name: "Study Leave"
+    description: "Description"
+    minDays: 1
+    maxDays: 15
+    enabled: true

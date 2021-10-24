@@ -1,0 +1,6 @@
+entity: PoolColor
+items:
+  poolcolor{1..10}:
+    name: "{{vehicle.color}}"
+    description: "{{lorem.paragraph}}"
+    enabled: true

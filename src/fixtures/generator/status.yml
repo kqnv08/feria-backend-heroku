@@ -1,0 +1,32 @@
+entity: Status
+items:
+  status1:
+    name: "On negociation"
+    code: "NEG"
+    description: "Status Description"
+    enabled: true
+  status2:
+    name: "Sold"
+    code: "$$$"
+    description: "Status Description"
+    enabled: true
+  status3:
+    name: "Pending Install"
+    code: "INST"
+    description: "Status Description"
+    enabled: true
+  status4:
+    name: "Installed"
+    code: "INOK"
+    description: "Status Description"
+    enabled: true
+  status5:
+    name: "Billed"
+    code: "BILL"
+    description: "Status Description"
+    enabled: true
+  status6:
+    name: "Fully Paid"
+    code: "PAID"
+    description: "Status Description"
+    enabled: true

@@ -1,0 +1,17 @@
+entity: Commission
+items:
+  commission1:
+    name: "COM-10"
+    description: "10% Commission on Sales"
+    percentage: 10
+    enabled: true
+  commission2:
+    name: "COM-15"
+    description: "15% Commission on Sales"
+    percentage: 15
+    enabled: true
+  commission3:
+    name: "COM-20"
+    description: "20% Commission on Sales"
+    percentage: 20
+    enabled: true

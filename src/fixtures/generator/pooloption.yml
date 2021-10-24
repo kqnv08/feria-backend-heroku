@@ -1,0 +1,14 @@
+entity: PoolOption
+items:
+  pooloption1:
+    name: "Above Ground"
+    description: "An above ground pool can provide a lifetime of fun in the sun for your family and friends. With advanced materials, built-in safety features and a revolutionary filtration system, an above ground pool makes a lot of sense."
+    enabled: true
+  pooloption2:
+    name: "Recessed"
+    description: "Recessed pools are not as common as in ground or above ground options, but they are just as viable. With a recessed pool you can see the cost savings of an above ground pool with the aesthetic benefits of an in ground pool."
+    enabled: true
+  pooloption3:
+    name: "Inground"
+    description: "We might have made our name in above ground and recessed pools, but as the Midwest leader in comprehensive pool manufacturing and installation we also offer an array of inground packages."
+    enabled: true

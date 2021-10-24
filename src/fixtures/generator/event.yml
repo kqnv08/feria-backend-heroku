@@ -1,0 +1,12 @@
+entity: Event
+items:
+  event1:
+    name: "Hotbox Changed to Sold ($$$)"
+    code: "Sold"
+    description: "This is an example event."
+    enabled: true
+  event2:
+    name: "Hotbox Changed to Scheduled (SCH)"
+    code: "Scheduled"
+    description: "This is an example event."
+    enabled: true

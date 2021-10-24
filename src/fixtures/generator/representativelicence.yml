@@ -1,0 +1,11 @@
+entity: RepresentativeLicense
+items:
+  representativelicense1:
+    representativeId: "@representative1"
+    licenseTypeId: "@licensetype1"
+    fromDate: "10/01/21"
+    toDate: "10/15/21"
+    isSpecificDate: false
+    isSpecificTime: false
+    description: ""
+    enabled: true

@@ -1,0 +1,32 @@
+entity: Lead
+items:
+  lead1:
+    firstName: "Jack"
+    lastName: "Smith"
+    email: "jackSmith@gmail.com"
+    phoneNumber: "3874871247"
+    zipCode: "4400"
+    weighing: "5"
+    criticalDate: "2021-09-07 00:00:00"
+    hotboxId: "@hotbox5"
+    enabled: true
+  lead2:
+    firstName: "Roy"
+    lastName: "Jones"
+    email: "royJones@gmail.com"
+    phoneNumber: "3875981235"
+    zipCode: "4400"
+    weighing: "5"
+    criticalDate: "2021-09-07 00:00:00"
+    hotboxId: "@hotbox3"
+    enabled: true
+  lead3:
+    firstName: "Evans"
+    lastName: "Brown"
+    email: "evansBrown@gmail.com"
+    phoneNumber: "3874125865"
+    zipCode: "4400"
+    weighing: "5"
+    criticalDate: "2021-09-07 00:00:00"
+    hotboxId: "@hotbox5"
+    enabled: true

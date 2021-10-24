@@ -1,0 +1,14 @@
+entity: Warehouse
+items:
+  warehouse1:
+    name: "Central Warehouse (Indianapolis)"
+    code: "MAIN"
+    address: "Street 123, Example Address"
+    description: "Description"
+    enabled: true
+  warehouse2:
+    name: "West Coast Warehouse"
+    code: "WEST"
+    address: "Street 123, Example Address"
+    description: "Description"
+    enabled: true

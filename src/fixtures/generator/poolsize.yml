@@ -1,0 +1,16 @@
+entity: PoolSize
+items:
+  poolsize1:
+    name: "Small"
+    description: "Size Description"
+    width: 5
+    length: 10
+    depth: 1
+    enabled: true
+  poolsize2:
+    name: "Standard"
+    description: "Size Description"
+    width: 10
+    length: 20
+    depth: 1.5
+    enabled: true

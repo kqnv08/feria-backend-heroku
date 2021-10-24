@@ -1,0 +1,11 @@
+entity: UserPreference
+items:
+  userPreference1:
+    userId: "@user1"
+    preferenceNotificationId: "@preferenceNotification1"
+  userPreference2:
+    userId: "@user2"
+    preferenceNotificationId: "@preferenceNotification1"
+  userPreference3:
+    userId: "@user3"
+    preferenceNotificationId: "@preferenceNotification1"

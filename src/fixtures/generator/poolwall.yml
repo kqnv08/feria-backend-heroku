@@ -1,0 +1,6 @@
+entity: PoolWall
+items:
+  poolwall{1..10}:
+    name: "{{company.companyName}}"
+    description: "{{company.catchPhraseDescriptor}}"
+    enabled: true

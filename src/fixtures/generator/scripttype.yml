@@ -1,0 +1,17 @@
+entity: ScriptType
+items:
+  scripttype1:
+    name: "type 1"
+    code: "T1"
+    acceptanceThreshold: 5
+    description: ""
+  scripttype2:
+    name: "type 2"
+    code: "T2"
+    acceptanceThreshold: 5
+    description: ""
+  scripttype3:
+    name: "type 3"
+    code: "T3"
+    acceptanceThreshold: 5
+    description: ""
