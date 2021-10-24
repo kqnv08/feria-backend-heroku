@@ -13,6 +13,7 @@ async function bootstrap() {
       transform: true,
     })
   )
+  app.enableCors()
   app.use(urlencoded({ extended: true, limit: "50mb" }))
 
   await app.listen(5000)
