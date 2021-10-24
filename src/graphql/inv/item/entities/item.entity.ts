@@ -24,6 +24,9 @@ export class Item extends BaseModel {
   @Column("int")
   stock?: number = 0
 
+  @Field(() => String, { nullable: true })
+  sortName: string
+
   @Field(() => Date, { nullable: true })
   @CreateDateColumn({ type: "timestamp" })
   createdAt?: Date
