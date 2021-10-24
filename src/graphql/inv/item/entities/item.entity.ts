@@ -25,6 +25,7 @@ export class Item extends BaseModel {
   stock?: number = 0
 
   @Field(() => String, { nullable: true })
+  @Column()
   sortName: string
 
   @Field(() => Date, { nullable: true })
