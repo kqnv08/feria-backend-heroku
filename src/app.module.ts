@@ -33,7 +33,6 @@ import { CryptoService } from "./core/services/crypto.service"
         database: "heroku_f269a747be577ca",
         entities: [join(__dirname, "**/**.entity{.ts,.js}")],
         synchronize: true,
-        logging: JSON.parse(`${configService.get("DB_LOGGING")}`),
         namingStrategy: new SnakeNamingStrategy(),
       }),
       inject: [ConfigService],
